@@ -1,1 +1,1 @@
-# Unix-Shell
+The Command Line Interpreter (CLI) was implemented as a group project. It has several features, such as interactive and batch modes, built-in commands, redirection, paths, and parallel commands. We have used C and Linux in the project.
